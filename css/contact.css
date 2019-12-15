@@ -1,0 +1,82 @@
+nav{
+    background: transparent;
+}
+
+.navbar button{
+    background: #00aafb;
+    margin-left: auto;
+    border-radius: 50%;
+}
+
+.header ul li a {
+    color: white;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.header ul li a:hover {
+    background: #00aafb;
+}
+
+.header ul li{
+    margin-bottom: 20px;
+    list-style: none;
+   }
+
+.p-4{
+    background: black;
+}
+
+.jumbotron{
+    height: 70vh;
+    background-image: url(../img/b7.jpeg);
+    background-size: cover;
+}
+
+.jumbotron img{
+    opacity: .6;
+    width: 30%;
+    height: 10%;
+    background: white;
+    box-shadow:white;
+    margin-top: 5%;
+}
+
+.content-1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.content-1 h2{
+    margin-bottom: 50px;
+}
+
+.content-1 button{
+    margin-top: 30px;
+}
+
+.content-2 iframe{
+    width: 100%;
+}
+
+.footer{
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+.footer form{
+    width: 50%;
+    margin-top: 50px;
+}
+
+.footer p{
+    margin-top: 50px;
+}
+
+
+
